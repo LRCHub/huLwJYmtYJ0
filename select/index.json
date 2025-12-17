@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OUT OF CITY",
+  "base_artist": "百足",
+  "createdAt": "2025-12-17T09:34:51.833208Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OUT OF CITY (feat. JAKEN & YUKI)",
+      "artist": "百足",
+      "has_synced": false,
+      "path": "select/pl_01_OUT_OF_CITY_(feat._JAKEN_&_YUKI)_百足.txt"
+    }
+  ]
+}
